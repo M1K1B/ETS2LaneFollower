@@ -7,7 +7,7 @@ This project implements a real-time **lane detection and tracking** system using
 
 ## 🚛 Demo
 
-[https://github.com/M1K1B/ETS2LaneFollower/demo-video.mp4](https://github.com/M1K1B/ETS2LaneFollower/demo-video.mp4)
+[https://github.com/M1K1B/ETS2LaneFollower/demo-video.mov](https://github.com/M1K1B/ETS2LaneFollower/demo-video.mov)
 
 ## 🛠 Features
 
