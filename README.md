@@ -7,6 +7,10 @@ This project implements a real-time **lane detection and tracking** system using
 
 ## 🚛 Demo
 
+<video width="720" controls>
+  <source src="https://github.com/M1K1B/ETS2LaneFollower/blob/main/demo-video.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
 [https://github.com/M1K1B/ETS2LaneFollower/demo-video.mov](https://github.com/M1K1B/ETS2LaneFollower/demo-video.mov)
 
 ## 🛠 Features
